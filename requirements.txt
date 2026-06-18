@@ -1,0 +1,29 @@
+# Core
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+scipy
+
+# NLP
+nltk
+gensim
+
+# Deep Learning
+torch
+torchvision
+
+# Experiment Tracking
+wandb
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress Bars
+tqdm
+
+# Notebook
+jupyter
+ipykernel
