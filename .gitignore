@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.pkl
+
+# Logs
+wandb/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kaggle
+submission.csv
+
+# VS Code
+.vscode/
